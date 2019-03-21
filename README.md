@@ -1,5 +1,6 @@
 # vue-awesome-picker [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url]
 基于 [Vue.js](https://github.com/vuejs/vue) & [Better-Scroll](https://github.com/ustbhuangyi/better-scroll) 的移动端 picker 组件
+官方组件有问题，ios端点击确定和取消的按钮被遮住了。需手动修改下代码后覆盖官方的组件
 
 ## Features
 * 支持单列、多列和联级数据
